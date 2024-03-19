@@ -1,4 +1,4 @@
-a# 💫 About Me:
+💫 About Me:
 KiVVON App (social app)<br>React Native Projects<br>React Native Typescript and Mobile app development best practices<br>MERN Stack Development<br>React Native , JavaScript and TypeScript<br>I am quicker learner and enjoy proposing solutions for things that look messy
 
 
